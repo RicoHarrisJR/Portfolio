@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Downloads/dairy-website-template"
+		},
+		{
+			"path": "../../../Downloads/Law Day Run Assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dairy-website-template"
+	}
+}
